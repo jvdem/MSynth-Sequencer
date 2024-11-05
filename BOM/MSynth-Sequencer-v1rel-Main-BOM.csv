@@ -1,0 +1,21 @@
+Category,Quantity,References,Value,PCB Package
+Capacitors,31,"C1-C30,C33",0u1,CAP2012
+Capacitors,2,C31-C32,22u,CAPPRD200W50D500H1250
+Resistors,10,"R1-R4,R6-R11",100k,RES2012
+Resistors,1,R5,100,RES2012
+Integrated Circuits,3,"U1,U4,U22",564LA7,401.14-5M-NOPAD
+Integrated Circuits,1,U2,564KT3,401.14-5M-NOPAD
+Integrated Circuits,1,U3,564LA8,401.14-5M-NOPAD
+Integrated Circuits,3,"U5,U7,U25",564LN2,401.14-5M-NOPAD
+Integrated Circuits,4,"U6,U8,U19,U23",564LE5,401.14-5M-NOPAD
+Integrated Circuits,3,"U9-U10,U15",564IP2,402.16-33
+Integrated Circuits,2,"U11,U16",564IE14,402.16-33
+Integrated Circuits,4,"U12-U13,U17-U18",564TR2,402.16-33
+Integrated Circuits,1,U14,564IM1,402.16-33
+Integrated Circuits,2,U20-U21,564LA9,401.14-5M-NOPAD
+Integrated Circuits,1,U24,564LP2,401.14-5M-NOPAD
+Diodes,2,D1-D2,KD243A,DO41
+Miscellaneous,2,F1-F2,680mA,VMP-2
+Miscellaneous,4,J1-J4,CONN-SIL8,CONN-SIL8
+Miscellaneous,1,J5,IDC-10MS,IDC-10MS
+Miscellaneous,2,L1-L2,1uH,IND2012
